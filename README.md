@@ -17,7 +17,7 @@ Fernando:
   Também conhecido como Kuririn ou Salgadinho, manja tudo do mundo Js e mais um pouco de todas as outras linguangens fodásticas.
   
  Rafael:
-  Parceiro de cerveja e fodástico em Arquitetura, gosta de Python, além de morar em um lugar frio pra caralho, e ter 3 cachorrinos que dormem com ele. Mas o chefe é o Logan.
+  Parceiro de cerveja e fodástico em Arquitetura, gosta de Python, além de morar em um lugar frio pra caralho, e ter 3 cachorrinhos que dormem com ele. Mas o chefe é o Logan.
  
  Pablo:
   O mestre em treino funcional, faz filho até uma horas, e agora se jogou no mundo Js.
