@@ -23,5 +23,5 @@ Fernando:
   O mestre em treino funcional, faz filho até uma horas, e agora se jogou no mundo Js.
   
  E eu:
-  Eu sou eu mesmo. O homem mais bonito do mundo!
+  Eu sou eu mesmo. O homem mais bonito do mundo! (by Elton)
     
